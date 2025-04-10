@@ -8,3 +8,4 @@ Tiny LLM for research and experimentation
 - [llm-local](https://www.nature.com/articles/d41586-024-02998-y)
 - [llm-board](https://lmarena.ai/?leaderboard)
 - [Bayes-deep-learn](https://cims.nyu.edu/~andrewgw/caseforbdl/)
+- [llm-benchmark-emotion](https://eqbench.com/creative_writing_longform.html)
